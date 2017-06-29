@@ -1,0 +1,8 @@
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\bin\Debug\GuessingGame_v2.UI.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\bin\Debug\GuessingGame_v2.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\bin\Debug\GuessingGame_v2.UI.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\bin\Debug\GuessingGame_v2.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\bin\Debug\GuessingGame_v2.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\obj\Debug\GuessingGame_v2.UI.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\obj\Debug\GuessingGame_v2.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\GuessingGame2\GuessingGame_v2.UI\GuessingGame_v2.UI\obj\Debug\GuessingGame_v2.UI.pdb
